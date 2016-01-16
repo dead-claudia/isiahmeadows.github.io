@@ -1,2 +1,5 @@
 # isiahmeadows.github.io
-A GitHub Pages 301 redirect to my real site. isiahmeadows.com
+
+Consider this a big fat 301 redirect to http://isiahmeadows.com. :wink:
+
+You might want to check out http://github.com/isiahmeadows/website, where the actual source is located.
